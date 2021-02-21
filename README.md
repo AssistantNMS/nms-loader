@@ -1,2 +1,5 @@
-# nms-loader
-Loadding icon for NMS
+# Custom No MAn's Sky Loader
+
+Loading icon for NMS
+
+![loader](loader.svg)
