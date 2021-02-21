@@ -1,5 +1,5 @@
-# Custom No MAn's Sky Loader
+# Custom No Man's Sky Loader
 
-Loading icon for NMS
+Loading icon for NMS projects
 
 ![loader](loader.svg)
