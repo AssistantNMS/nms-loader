@@ -1,6 +1,6 @@
 
 <div align="center">
-  <h1> Custom No Man's Sky Loader</h1?
+  <h1> Custom No Man's Sky Loader</h1>
 
   <p>Loading icon for NMS projects</p>
 
